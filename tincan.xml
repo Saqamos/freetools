@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="urn:articulate:storyline:6qcDea2qE2d" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Worrying Decision Tree </name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="urn:articulate:storyline:6qcDea2qE2d/6gyQlATG2gF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">هل عندك مشكلة حالياً مسببالك قلق في حياتك</name>
+			<description lang="und">هل عندك مشكلة حالياً مسببالك قلق في حياتك</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6qcDea2qE2d/6pRK7xfGSiJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">لا أدري #1</name>
+			<description lang="und">لا أدري #1</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6qcDea2qE2d/6Y0uxcpXmrY" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">لا #1</name>
+			<description lang="und">لا #1</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6qcDea2qE2d/5jIdgorTE4I" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">هل عندك مشكلة حالياً مسببالك قلق في حياتك</name>
+			<description lang="und">هل عندك مشكلة حالياً مسببالك قلق في حياتك</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6qcDea2qE2d/5k6XmMXMFHS" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">نعم #2</name>
+			<description lang="und">نعم #2</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6qcDea2qE2d/6EjeCi7XrmL" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">لا أدري #1</name>
+			<description lang="und">لا أدري #1</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6qcDea2qE2d/5W0u6upaNYg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">لا #1</name>
+			<description lang="und">لا #1</description>
+		</activity>
+	</activities>
+</tincan>
